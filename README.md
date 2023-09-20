@@ -4,7 +4,7 @@
 
 ### Overview
 
-**PyBank** is a Python script that analyzes financial records from a CSV file named "budget_data.csv." It calculates various financial metrics, including the total number of months, net total profits/losses, average change in profits/losses, greatest increase in profits, and greatest decrease in profits. The analysis results are both displayed in the terminal and exported to a text file.
+**PyBank** Python script analyzes financial records from a CSV file named "budget_data.csv." It calculates various financial metrics, including the total number of months, net total profits/losses, average change in profits/losses, greatest increase in profits, and greatest decrease in profits. The analysis results are both displayed in the terminal and exported to a text file.
 
 ### Actions Taken
 
@@ -19,7 +19,7 @@
 
 ### Overview
 
-**PyPoll** is a Python script that analyzes election data from a CSV file named "election_data.csv." It calculates various election statistics, including the total number of votes cast, a list of candidates who received votes, the percentage of votes each candidate won, and the winner of the election based on popular vote. The analysis results are both displayed in the terminal and exported to a text file.
+**PyPoll** Python script analyzes election data from a CSV file named "election_data.csv." It calculates various election statistics, including the total number of votes cast, a list of candidates who received votes, the percentage of votes each candidate won, and the winner of the election based on popular vote. The analysis results are both displayed in the terminal and exported to a text file.
 
 ### Actions Taken
 
